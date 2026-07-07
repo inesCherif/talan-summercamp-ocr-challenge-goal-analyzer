@@ -1,4 +1,4 @@
-# 🎯 Hackathon Goal Analyzer Dashboard
+# 🎯 Challenge Goal Analyzer Dashboard
 
 Welcome to the **Hackathon Goal Analyzer**, an AI-powered dashboard built for the Talan Summercamp hackathon. This application automates the process of reading handwritten goals from participants, analyzing them, and generating a global synthesis for the entire team.
 
